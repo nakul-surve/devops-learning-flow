@@ -27,3 +27,9 @@ This repository explains the end-to-end DevOps workflow in simple terms.
 
 ## Learning Goal
 Understand the full DevOps lifecycle instead of isolated tools.
+
+## Related Repositories
+- Linux Basics
+- AWS EC2 + Nginx Mini Project
+- Docker Basics & Dockerfile
+- CI/CD Basics with GitHub Actions
