@@ -25,8 +25,6 @@ This repository explains the end-to-end DevOps workflow in simple terms.
 - AWS
 - Linux
 
-## Learning Goal
-Understand the full DevOps lifecycle instead of isolated tools.
 
 ## Related Repositories
 - Linux Basics
