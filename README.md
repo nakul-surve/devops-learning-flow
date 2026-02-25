@@ -23,7 +23,7 @@ This repository explains the end-to-end DevOps workflow in simple terms.
 - GitHub Actions
 - Docker
 - AWS
-- Linux
+- l
 
 
 ## Related Repositories
